@@ -43,4 +43,3 @@ public class MQConfig {
         return rabbitTemplate;
     }
 }
-
